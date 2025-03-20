@@ -9,5 +9,6 @@ This project is a good resource for anyone looking to practice data preprocessin
 Here are the links to:
 * my Kaggle notebook: https://www.kaggle.com/code/xpelson/titanic-data-analysis/notebook
 * my Kaggle discussion on the notebook: https://www.kaggle.com/competitions/titanic/discussion/445529
+* Titanic dataset on Kaggle, where you can download the data: https://www.kaggle.com/competitions/titanic/data
 
 Feel free to come, read and live a comment!
